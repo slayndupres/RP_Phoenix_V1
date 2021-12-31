@@ -1,2 +1,6 @@
 # RP_Phoenix_V1
+
+THIS MAP REQUIRES THE CONTENT ADDON TO FULLY WORK.
+CETTE MAP A BESOIN DE SES CONTENTS POUR FONCTIONNER.
+
 after 4 months of work, here is my map Garry’s Mod
