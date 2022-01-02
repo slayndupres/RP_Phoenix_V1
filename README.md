@@ -4,13 +4,13 @@ Content : https://steamcommunity.com/workshop/filedetails/?id=2700622386
 
 Map : https://steamcommunity.com/sharedfiles/filedetails/?id=2700214835
 
-Welcome to the city of Phoenix !
+<h1> Welcome to the city of Phoenix !</h1>
 
 After more than 5 months of development, here is the first version of my map.
 <br>
 It is a big city with 2 floors, she is suitable for any type of Roleplay ....
 
-Credits and Thanks !
+<h1> Credits and Thanks ! </h1>
 
 Slayn : mapping, texturing
 <br>
