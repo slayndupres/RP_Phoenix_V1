@@ -7,12 +7,17 @@ Map : https://steamcommunity.com/sharedfiles/filedetails/?id=2700214835
 Welcome to the city of Phoenix !
 
 After more than 5 months of development, here is the first version of my map.
+<br>
 It is a big city with 2 floors, she is suitable for any type of Roleplay ....
 
 Credits and Thanks !
 
 Slayn : mapping, texturing
+<br>
 Kimbo slice : various models, design idea and other
+<br>
 Steinman : textures and models
+<br>
 Statua : textures and models
+<br>
 and plenty of other people for their contribution...
