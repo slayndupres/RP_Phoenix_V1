@@ -1,5 +1,8 @@
-# OUTDATED + DM FOR VMF (free)
-# THIS MAP REQUIRES THE CONTENT ADDON TO FULLY WORK
+# OUTDATED ( You can use it, but it needs an update )
+# For VMF, join this and DM me: https://discord.gg/6Ud4gkF9pJ (free)
+
+
+THIS MAP REQUIRES THE CONTENT ADDON TO FULLY WORK
 
 Content : https://steamcommunity.com/workshop/filedetails/?id=2700622386
 
