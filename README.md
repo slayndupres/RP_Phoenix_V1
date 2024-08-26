@@ -1,4 +1,4 @@
-# OUTDATED 
+# OUTDATED + DM FOR VMF (free)
 # THIS MAP REQUIRES THE CONTENT ADDON TO FULLY WORK
 
 Content : https://steamcommunity.com/workshop/filedetails/?id=2700622386
